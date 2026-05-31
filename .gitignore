@@ -1,0 +1,5 @@
+Backend/node_modules/
+YOLO_model/venv/
+YOLO_model/.venv/
+__pycache__/
+*.pyc
