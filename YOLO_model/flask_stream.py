@@ -1,3 +1,4 @@
+# Final yolo + flask + Backend integration code
 # """
 # Smart Classroom AI
 # YOLO + Flask + Backend Integration
